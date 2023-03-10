@@ -1,0 +1,22 @@
+/* Importa los tipos de fuentes de interés */
+@import url("https://fonts.googleapis.com/css2?family=Antonio:wght@300;400;500;600;700&family=Nunito:ital,wght@0,600;0,800;1,700&display=swap");
+
+/* Estilo para la barra lateral */
+#sidebar {
+  background-color: #addad7;
+  height: 100%;
+}
+    
+/* Estilo de la barra de color de los encabezados */
+#title-background-color {
+  background-image: linear-gradient(to right, #ab93c1, #5fbfbb);
+  color: white;
+}
+
+/* Estilo para los párrafos de la barra lateral */
+#sidebar-paragraph {
+  text-align: justify;
+  color: #575756;
+  font-family: Nunito;
+  font-weight: 600;
+}
